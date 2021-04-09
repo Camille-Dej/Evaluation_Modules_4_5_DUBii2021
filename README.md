@@ -19,7 +19,7 @@ Ce rapport devra être mis à disposition et partagé avec nous sous sa forme co
 Les parties 1 à 4 seront notées pour l'évaluation du module 4, les parties 5 à 7 pour le module 5.
 
 # Rendu du devoir 
-
+[Template HTML](https://camille-dej.github.io/Evaluation_Modules_4_5_DUBii2021/Evaluation_cdejos.html)
 
 * **Avant le 15 avril**
 * Lien vers le rapport HTML déployé sur vos Github Pages ou lien vers votre dépôt _public_ (!)
